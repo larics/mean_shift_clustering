@@ -24,7 +24,3 @@ To get a local copy up and running follow these simple steps.
 ### Prerequisites
 Ubuntu 18.04
 ROS melodic
-
-## Usage
-
-Run ```C++/main.cpp``` 
